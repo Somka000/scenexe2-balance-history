@@ -1639,7 +1639,7 @@
                                     "penetration": 5,
                                     "type": 3,
                                     "recoil": 1,
-                                    "time": 1,
+                                    "time": 1.5,
                                     "bulletWeapon": {
                                         "barrels": [],
                                         "weaponTurrets": []
@@ -1689,7 +1689,7 @@
                                     "penetration": 3.75,
                                     "type": 3,
                                     "recoil": 1,
-                                    "time": 1,
+                                    "time": 1.5,
                                     "bulletWeapon": {
                                         "barrels": [],
                                         "weaponTurrets": []
@@ -1748,7 +1748,7 @@
                                     "penetration": 3.75,
                                     "type": 3,
                                     "recoil": 1,
-                                    "time": 1,
+                                    "time": 1.5,
                                     "bulletWeapon": {
                                         "barrels": [],
                                         "weaponTurrets": []
@@ -5548,7 +5548,7 @@
                                     "penetration": 5,
                                     "type": 3,
                                     "recoil": 1,
-                                    "time": 1,
+                                    "time": 1.5,
                                     "bulletWeapon": {
                                         "barrels": [],
                                         "weaponTurrets": []
@@ -8484,7 +8484,7 @@
                                     "penetration": 3,
                                     "type": 3,
                                     "recoil": 1,
-                                    "time": 1,
+                                    "time": 1.5,
                                     "bulletWeapon": {
                                         "barrels": [],
                                         "weaponTurrets": []
@@ -8529,7 +8529,7 @@
                                     "penetration": 3,
                                     "type": 3,
                                     "recoil": 1,
-                                    "time": 1,
+                                    "time": 1.5,
                                     "bulletWeapon": {
                                         "barrels": [],
                                         "weaponTurrets": []
@@ -8574,7 +8574,7 @@
                                     "penetration": 3,
                                     "type": 3,
                                     "recoil": 1,
-                                    "time": 1,
+                                    "time": 1.5,
                                     "bulletWeapon": {
                                         "barrels": [],
                                         "weaponTurrets": []
@@ -11568,7 +11568,7 @@
                                     "penetration": 4,
                                     "type": 3,
                                     "recoil": 1,
-                                    "time": 1,
+                                    "time": 1.5,
                                     "bulletWeapon": {
                                         "barrels": [],
                                         "weaponTurrets": []
